@@ -1,0 +1,1 @@
+[29-Dec-2014 14:11:52 Etc/UTC] PHP Fatal error:  Call to protected method PHPMailer::SmtpSend() from context '' in /home/gdgvitvellore/public_html/mail/mail.php on line 60
